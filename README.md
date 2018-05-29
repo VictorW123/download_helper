@@ -9,7 +9,7 @@
     3. 发送1元红包，然后去你的邮箱接收文件吧。
 
 
-![image](http://github.com/VictorW123/download_helper/raw/master/images/content.png)
+![image](http://github.com/VictorW123/download_helper/raw/master/images/ad.png)
 
 
 ## 扫描下方的微信二维码，加为微信好友。
